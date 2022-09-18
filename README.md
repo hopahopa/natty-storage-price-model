@@ -7,3 +7,9 @@ For the US Futures Price prediction (very difficult to do) I used from sklearn.t
 - LNG export
 - US daily Nat Gas production in Bcf
 - Event (Black Swan): pipeline explosion, wars, hurricane etc...
+
+All the data are public from:
+investing.com
+yahoo.finance
+agsi+
+EIA 
